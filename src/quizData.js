@@ -10,11 +10,6 @@ const quizData = [
       answer: "McAfee"
     },
     {
-      question: "Which animal is featured in the official PHP logo?",
-      options: ["Elephant", "Hippo", "Giraffe", "Lion"],
-      answer: "Elephant"
-    },
-    {
       question: "What does 'HTTP' stand for?",
       options: ["HyperText Transfer Protocol", "Hyperlink Transfer Technology Protocol", "Hyperlink Text Transfer Protocol", "HyperText Technology Protocol"],
       answer: "HyperText Transfer Protocol"
